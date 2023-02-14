@@ -53,7 +53,7 @@ def process_sales_data(sales_csv, orders_dir):
         # Determine the file name and full path of the Excel sheet
         # Export the data to an Excel sheet
         # TODO: Format the Excel sheet
- pass
+   pass
 
 if __name__ == '__main__':
     main()
